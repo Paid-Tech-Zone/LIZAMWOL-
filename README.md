@@ -11,7 +11,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
+  <a href="https://chat.whatsapp.com/IDik0Yl1FnVGE6kiXsKUAG"> 
     <img src="https://github.com/mudiyanmas/LIZAMWOL/blob/main/assets/bot_image.jpg" alt="LIZAMWOL" height="300"> 
   </a> 
 </div>
@@ -58,7 +58,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 For further customization and setup guidance, click the button below:
 
 <div align="center">
-  <a href="https://youtu.be/dDyiEHF8rIQ">
+  <a href="https://chat.whatsapp.com/IDik0Yl1FnVGE6kiXsKUAG">
     <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
   </a>
   <a href="https://bot-hosting.net/?aff=1068419752923508776">
