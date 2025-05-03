@@ -157,8 +157,7 @@ If you like this project, please give it a [⭐️ star on GitHub](https://githu
 
 - [Mudiyanmass](https://github.com/mudiyanmas/LIZAMWOL)
 - [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
+- [TCRONEB HACKX](https://Tcroneb.zone.id)
 
 ---
 
