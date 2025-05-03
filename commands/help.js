@@ -143,7 +143,7 @@ async function helpCommand(sock, chatId, channelLink) {
 ║ ➤ .song <song_name>
 ╚═══════════════════╝
 
-Join our channel for updates:`;
+THIS BOT IS UNDER MAINTENANCE © PAID TECH ZONE:`;
 
     try {
         const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
