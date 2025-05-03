@@ -11,6 +11,10 @@
  */
 require('./settings')
 const { Boom } = require('@hapi/boom')
+const express = require('express');
+const app = express();
+const PORT = process.env.PORT || 8000;
+const fs = require('fs-extra');
 const fs = require('fs')
 const chalk = require('chalk')
 const FileType = require('file-type')
