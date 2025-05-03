@@ -189,7 +189,7 @@ THIS BOT IS UNDER MAINTENANCE © PAID TECH ZONE:`;
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
+                        newsletterJid: '120363401516239182@newsletter',
                         newsletterName: 'LIZAMWOL',
                         serverMessageId: -1
                     }
@@ -203,7 +203,7 @@ THIS BOT IS UNDER MAINTENANCE © PAID TECH ZONE:`;
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363401516239182@g.us',
+                        newsletterJid: '120363401516239182@newsletter',
                         newsletterName: 'LIZAMWOL',
                         serverMessageId: -1
                     } 
