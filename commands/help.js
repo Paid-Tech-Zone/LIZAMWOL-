@@ -4,12 +4,12 @@ const path = require('path');
 
 async function helpCommand(sock, chatId, channelLink) {
     const helpMessage = `
-╭─────────❍─────❍❍➣ 
-   *❄️ ${settings.botName || '❄️ʟɪᴢᴀ ᴍᴡᴏʟ ᴍᴅ❄️'}*  
-   Version: *${settings.version || '1.0.0'}*
-   by ${settings.botOwner || 'MUDIYANMASS'}
-   YT : ${global.ytch}
-╰────────❍─────❍❍➣ 
+╭─────────❍〔 *❄️ʟɪᴢᴀ ᴍᴡᴏʟ ᴍᴅ❄️* 〕❍❍➣ 
+│➣│*❄️ ${settings.botName || 'ʟɪᴢᴀ ᴍᴅ'}*  
+│➣│▸Version: *${settings.version || '1.0.0'}*
+│➣│▸${settings.botOwner || 'MUDIYANMASS'}
+│➣│▸ YT : ${global.ytch}
+╰────────────❍─────❍❍➣ 
 
 ╭════════💫═╮
  ✰✰☞︎︎︎𝙼𝙴𝙽𝚄☜︎︎︎✰✰
