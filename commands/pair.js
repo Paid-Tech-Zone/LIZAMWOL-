@@ -10,7 +10,7 @@ async function pairCommand(sock, chatId, message, q) {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
+                        newsletterJid: '120363401516239182@newsletter',
                         newsletterName: 'LIZAMWOL',
                         serverMessageId: -1
                     }
@@ -48,7 +48,7 @@ async function pairCommand(sock, chatId, message, q) {
                         forwardingScore: 999,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363161513685998@newsletter',
+                            newsletterJid: '120363401516239182@newsletter',
                             newsletterName: 'LIZAMWOL',
                             serverMessageId: -1
                         }
@@ -62,7 +62,7 @@ async function pairCommand(sock, chatId, message, q) {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
+                        newsletterJid: '120363401516239182@newsletter',
                         newsletterName: 'LIZAMWOL',
                         serverMessageId: -1
                     }
@@ -85,7 +85,7 @@ async function pairCommand(sock, chatId, message, q) {
                             forwardingScore: 999,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '120363161513685998@newsletter',
+                                newsletterJid: '120363401516239182@newsletter',
                                 newsletterName: 'LIZAMWOL',
                                 serverMessageId: -1
                             }
