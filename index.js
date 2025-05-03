@@ -185,7 +185,7 @@ async function startXeonBotInc() {
         if (!!global.phoneNumber) {
             phoneNumber = global.phoneNumber
         } else {
-            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +917023951514 : `)))
+            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 😍\nFor example: +91 81378 29228 : `)))
         }
 
         phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
@@ -209,7 +209,7 @@ async function startXeonBotInc() {
             const botNumber = XeonBotInc.user.id.split(':')[0] + '@s.whatsapp.net';
             await XeonBotInc.sendMessage(botNumber, { 
                 text: `🤖 Bot Connected Successfully!\n\n⏰ Time: ${new Date().toLocaleString()}\n✅ Status: Online and Ready!
-                \n Give a Star ⭐ to our bot:\n https://github.com/mruniquehacker/KnightBot-MD\n ✅Make sure to join below channel`,
+                \n Give a Star ⭐ to our bot:\n https://github.com/mudiyanmas/LIZAMWOL\n ✅Make sure to join below channel`,
                 contextInfo: {
                     forwardingScore: 999,
                     isForwarded: true,
