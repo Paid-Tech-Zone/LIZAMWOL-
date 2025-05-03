@@ -4,35 +4,38 @@ const path = require('path');
 
 async function helpCommand(sock, chatId, channelLink) {
     const helpMessage = `
-╔═══════════════════╗
-   *❄️ ${settings.botName || 'LIZAMWOL'}*  
+╭─────────❍─────❍❍➣ 
+   *❄️ ${settings.botName || '❄️ʟɪᴢᴀ ᴍᴡᴏʟ ᴍᴅ❄️'}*  
    Version: *${settings.version || '1.0.0'}*
    by ${settings.botOwner || 'MUDIYANMASS'}
    YT : ${global.ytch}
-╚═══════════════════╝
+╰────────❍─────❍❍➣ 
 
-*Available Commands:*
+╭════════💫═╮
+ ✰✰☞︎︎︎𝙼𝙴𝙽𝚄☜︎︎︎✰✰
+╰═💫════════╯
 
-╔═══════════════════╗
-🌐 *General Commands*:
-║ ➤ .help or .menu
-║ ➤ .ping
-║ ➤ .alive
-║ ➤ .tts <text>
-║ ➤ .owner
-║ ➤ .joke
-║ ➤ .quote
-║ ➤ .fact
-║ ➤ .weather <city>
-║ ➤ .news
-║ ➤ .attp <text>
-║ ➤ .lyrics <song_title>
-║ ➤ .8ball <question>
-║ ➤ .groupinfo
-║ ➤ .staff or .admins 
-║ ➤ .vv
-║ ➤ .pair or .rent
-╚═══════════════════╝
+✮‌➤*COMMANDS*
+
+╭────────❒ *GENERAL CMDS*➣
+│➣│▸ .help or .menu
+│➣│▸ .ping
+│➣│▸ .alive
+│➣│▸.tts <text>
+│➣│▸ .owner
+│➣│▸ .joke
+│➣│▸ .quote
+│➣│▸ .fact
+│➣│▸ .weather <city>
+│➣│▸ .news
+│➣│▸ .attp <text>
+│➣│▸ .lyrics <song_title>
+│➣│▸ .8ball <question>
+│➣│▸ .groupinfo
+│➣│▸ .staff or .admins 
+│➣│▸ .vv
+│➣│▸ .pair or .rent
+╰────────❍─────❍❍➣
 
 ╔═══════════════════╗
 🎨 *Image/Sticker Commands*:
