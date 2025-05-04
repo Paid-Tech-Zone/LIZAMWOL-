@@ -89,24 +89,26 @@ const songCommand = require('./commands/song');
 const aiCommand = require('./commands/ai');
 
 
+
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A";
-global.ytch = "Mr Unique Hacker";
+global.channelLink = "https://chat.whatsapp.com/IDik0Yl1FnVGE6kiXsKUAG";
+global.ytch = "MUDIYANMASS";
 
 // Add this near the top of main.js with other global configurations
 const channelInfo = {
     contextInfo: {
-        forwardingScore: 1,
+        forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363161513685998@newsletter',
-            newsletterName: 'KnightBot MD',
+            newsletterJid: '120363401516239182@g.us',
+            newsletterName: 'LIZAMWOL',
             serverMessageId: -1
         }
     }
 };
+
 
 async function handleMessages(sock, messageUpdate, printLog) {
     try {
