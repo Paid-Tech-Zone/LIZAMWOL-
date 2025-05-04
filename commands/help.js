@@ -169,12 +169,15 @@ async function helpCommand(sock, chatId, channelLink) {
 ╭────────❒ *DOWNLOADER CMDS*➣
 │➣│▸ .play <song_name>
 │➣│▸ .song <song_name>
+│➣│▸ .tikok
+│➣│▸ .lnstagram 
+│➣│▸ .facebook
 ╰─────│
     ─┬────❍ 
 ╭─┴❍
     │
     │───❍─────❍❍➣
-THIS BOT IS UNDER MAINTENANCE © PAID TECH ZONE:`;
+BOT IS UNDER MAINTENANCE © PAID TECH ZONE:`;
 
     try {
         const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
