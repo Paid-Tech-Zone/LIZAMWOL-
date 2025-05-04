@@ -80,6 +80,13 @@ const textmakerCommand = require('./commands/textmaker');
 const { handleAntideleteCommand, handleMessageRevocation, storeMessage } = require('./commands/antidelete');
 const clearTmpCommand = require('./commands/cleartmp');
 const setProfilePicture = require('./commands/setpp');
+const instagramCommand = require('./commands/instagram');
+const facebookCommand = require('./commands/facebook');
+const playCommand = require('./commands/play');
+const tiktokCommand = require('./commands/tiktok');
+const songCommand = require('./commands/song');
+const aiCommand = require('./commands/ai');
+
 
 // Global settings
 global.packname = settings.packname;
