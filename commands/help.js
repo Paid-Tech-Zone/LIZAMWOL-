@@ -6,13 +6,13 @@ async function helpCommand(sock, chatId, channelLink) {
     const helpMessage = `
 ╭─❍〔*❄️ʟɪᴢᴀ ᴍᴡᴏʟ ᴍᴅ❄️*〕❍❍➣ 
 
-☾︎✰☽︎🏷️ Version : *1.0.0 LITE*
-☾︎✰☽︎🔣 Prefix : *{.}*
-☾︎✰☽︎ 🚀 Platform : *Linux*
-☾︎✰☽︎⚙️ Mode : *{public}*
-☾︎✰☽︎ ❓ Owner : *LIZAMWOL*
-☾︎✰☽︎💻 Type : *NodeJs*
-☾︎✰☽︎ 🤖 Baileys : *Multi Device*
+☾︎✰☽︎ Version : *2.0.0 LITE*🏷️
+☾︎✰☽︎ Prefix : *{.}*🔣
+☾︎✰☽︎ Platform : *Linux*🚀
+☾︎✰☽︎ Mode : *{public}*⚙️
+☾︎✰☽︎ Owner : *LIZAMWOL*❓
+☾︎✰☽︎ Type : *NodeJs*💻
+☾︎✰☽︎ Baileys : *Multi Device*🤖
 
 ╰────────────❍─────❍❍➣ 
     │
