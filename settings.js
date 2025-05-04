@@ -1,7 +1,7 @@
 const settings = {
   packname: 'LIZAMWOL',
   author: '‎',
-  botName: "Knight Bot",
+  botName: "LIZAMWOL , TCRONEB HACKX",
   botOwner: 'Professor', // Your name
   ownerNumber: '918137829228,263788533181', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
